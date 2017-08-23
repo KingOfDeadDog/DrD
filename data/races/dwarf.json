@@ -1,0 +1,9 @@
+{
+    "name":"Dwarf",
+    "height_min":110,
+    "height_max":140,
+    "weight_min":1100,
+    "weight_max":2000,
+    "size_class":"A",
+    "description":"Dwarfs are well  happy people. They are even smaller than dwarfs, hairy and somehow pleasantly plump."
+}
