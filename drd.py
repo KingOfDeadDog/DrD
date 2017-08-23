@@ -1,2 +1,8 @@
+from gui import Gui
+
+
 def run_game():
-    pass
+    gui = Gui()
+    gui.show()
+
+run_game()
